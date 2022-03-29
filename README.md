@@ -1,8 +1,8 @@
-# Contador 
+# Counter
 
-Contador hecho a modo de demo con ReactJS, basico. 
+Counter made as a demo with ReactJS, basic.
 
-## ¿Cómo lo ejecuto?
+## How do I run it?
 
-* Correr `npm install`
-* Para ejecutar el proyecto, correr `npm start`
+* Run `npm install` to install the dependencies
+* Then, run the proyect `npm start`
